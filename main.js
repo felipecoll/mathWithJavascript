@@ -11,3 +11,5 @@ const ladoTrianguoBase = 4
 const perimetroTriangulo = ladoTriangulo1 + ladoTriangulo2 + ladoTrianguoBase
 const areaTriangulo = (ladoTriangulo1 * ladoTrianguoBase) / 2
 console.log(ladoTriangulo1, ladoTriangulo2, ladoTrianguoBase, perimetroTriangulo, areaTriangulo)
+
+console.log("Este curso no fue para nada lo esperado")
